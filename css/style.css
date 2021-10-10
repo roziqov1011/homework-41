@@ -1,0 +1,7 @@
+img{
+    width: 150px;
+}
+.js-result{
+    display: flex;
+    flex-wrap: wrap;
+}
